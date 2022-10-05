@@ -4,7 +4,7 @@ Setting Up:
 
 Step 1: Download the repostory using the command:
 
-git clone https://github.com/necertech/escrow.git 
+git clone https://github.com/necertech/SecuredPDF-Escrow.git
 
 In order to run this project locally in your computer you need the following packages installed in your System and the commands to install the packages are given below:
 
